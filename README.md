@@ -7,7 +7,7 @@ This is the starting point for joining and contributing to the Harness Community
 
 ## Table of Contents 
 - [Community](#community)
-- [Where to seek for help?](#where-to-seek-for-help)
+- [Where to seek help?](#where-to-seek-for-help)
 - [Where to report bugs?](#where-to-report-bugs)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
