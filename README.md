@@ -1,7 +1,7 @@
 ![DM](https://github.com/harness/community/blob/main/images/logo-dm.png?raw=true#gh-dark-mode-only)
 ![LM](https://github.com/harness/community/blob/main/images/logo-lm.png?raw=true#gh-light-mode-only)
 # Community at Harness
-Welcome to the Harness Community! We are glad to have you here.
+Hello and welcome to the Harness Community! We are glad to have you here. 👋 👋
 This is the starting point for joining and contributing to the Harness Community.
 
 
@@ -19,7 +19,7 @@ The Harness Community lives in [Slack](https://join.slack.com/t/harnesscommunity
 
 We also host [events](https://www.meetup.com/harness/) within the Harness User Group which encompass everything from office hours to technical deep dives!
 
-## Where to Seek Help
+## 🔎 Where to Seek Help 🔍
 
 We have two main channels for seeking help and assistance.
 
@@ -27,4 +27,6 @@ We encourage you to use our [Slack](https://join.slack.com/t/harnesscommunity/sh
 
 <!-- Add Forum Information -->
 
-## Where to Report Bugs
+## Where to Report Bugs 🐛 
+
+Please report bugs in our [forum](https://community.harness.io/) under the bugs topic. 
