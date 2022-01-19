@@ -35,7 +35,7 @@ Please report bugs in our [forum](https://community.harness.io/) under the bugs 
 
 We expect contributors to abide by our underlying [code of conduct](https://github.com/harness/community/blob/main/CODE_OF_CONDUCT.md). All conversations and discussions on GitHub (issues, pull requests) and across Harness socials must be respectful and harassment-free.
 
-If you feel another member of the community has violated our Code of Conduct, you may anonymously contact the team with our code of [conduct report form(https://docs.google.com/forms/d/e/1FAIpQLSezbICGabREywwpLauIJz68OrBxAjimiFt3SrxK9qnaxF8SzQ/viewform).
+If you feel another member of the community has violated our Code of Conduct, you may anonymously contact the team with our code of [conduct report form](https://docs.google.com/forms/d/e/1FAIpQLSezbICGabREywwpLauIJz68OrBxAjimiFt3SrxK9qnaxF8SzQ/viewform).
 
 Remember that communication is the crucial to any project. We are all working on this together, and we are all benefiting from this software. It's very easy to misunderstand one another over asynchronous, text-based conversations: When in doubt, assume everyone within this project has the best intentions.
 
