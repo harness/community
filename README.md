@@ -1,5 +1,5 @@
-![](images/logo-lm.png#gh-light-mode-only)
-![](images/logo-dm.png#gh-dark-mode-only)
+![DM](https://github.com/harness/community/blob/main/images/logo-dm.png?raw=true#gh-dark-mode-only)
+![LM](https://github.com/harness/community/blob/main/images/logo-lm.png?raw=true#gh-light-mode-only)
 # Community at Harness
 Welcome to the Harness Community! We are glad to have you here.
 This is the starting point for joining and contributing to the Harness Community.
