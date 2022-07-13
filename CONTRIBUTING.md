@@ -1,15 +1,6 @@
 # Contributing to Harness Community Repositories
 
-We currently accept contributions to Drone as well as Harness CD Community
-
-
-
-
-
-
-
-
-
+We currently accept contributions to Drone as well as Harness CD Community.
 
 # Proposing Changes to Drone
 
@@ -62,6 +53,29 @@ Drone is a mature project with thousands of active installations, as such, signi
 	- The discussion is expected to be resolved in a timely manner.
 
 - The author (and/or other contributors) do the work as described by the "Implementation" section of the proposal.
+
+# Our review/merge process for issues:
+We currently accept creating an issue on the following repos:
+ - [Drone](https://github.com/harness/drone/issues)
+
+We meet on a Tuesday morning (10am BST) every week
+The team has a Github query that lists all open pull requests from the last 30 days from all repos in the Drone org (93) and all Drone repos in the Harness org (5)
+
+From the list we choose the PR's that:
+
+- Are the most obvious to fit with our guidelines and are likely to be merged without much 	interaction (quick wins)
+- Will have a positive impact without negatively impacting an already large audience (PR's that don't change behaviour)
+- Address bugs/subjects that are currently of interest to our roadmap
+- Any others we have time for
+
+- Once the list is generated, our 2 engineers agree a strategy to prevent overlapping effort and get started
+- Near the end of the day (3pm - 4pm BST) we get together and discuss any PR's that are questionable so that a decision can be made on next actions taken
+the remainder of the working day is spent taking those actions or returning to priority items if no further actions are required.
+
+*During the day all or none of the PR's could be merged although there tends to be a few that have value and can be merged immediately. We intend to introduce stalebot in the near future, it's already implemented for the plugin marketplace repo, the intention is to remove any PR that has been sitting for over 30 days without a response. It will comment on a repo saying that it has become stale, and give the author 5 days to take an action (comment for example) to keep it open.*
+
+For other issues please use our Discourse and file the issue under the [Drone Bugs Section](https://community.harness.io/c/bugs/17) or slack to bring issues to our attention.
+
 
 ## Help
 
