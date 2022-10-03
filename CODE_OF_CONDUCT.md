@@ -25,7 +25,7 @@ Examples of unacceptable behavior include:
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. By adopting this Code of Conduct, project maintainers commit themselves to fairly and consistently applying these principles to every aspect of managing this project. Project maintainers who do not follow or enforce the Code of Conduct may be permanently removed from the project team.
 
 ## Reporting
-For incidents occurring in the Harness community, contact dave.nielsen@harness.io or use this [form](https://docs.google.com/forms/d/e/1FAIpQLSezbICGabREywwpLauIJz68OrBxAjimiFt3SrxK9qnaxF8SzQ/viewform?usp=sf_link) to submit with the option of remaining anonymous. You can expect a response within three business days. Use of an outside mediator can be requested when reporting or used at Harness staff's discretion. In general, contacting dave.nielsen@harness.io directly is preferred.
+For incidents occurring in the Harness community, contact community-engineering@harness.io or use this [form](https://docs.google.com/forms/d/e/1FAIpQLSezbICGabREywwpLauIJz68OrBxAjimiFt3SrxK9qnaxF8SzQ/viewform?usp=sf_link) to submit with the option of remaining anonymous. You can expect a response within three business days. Use of an outside mediator can be requested when reporting or used at Harness staff's discretion. In general, contacting community-engineering@harness.io directly is preferred.
 
 ## Enforcement
 Harness’ Community Relations committee enforces code of conduct issues. Both bodies try to resolve incidents without punishment, but may remove people from the project or Harness communities at their discretion.
